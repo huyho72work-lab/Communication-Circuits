@@ -1,1 +1,1 @@
-Chào nhà tuyển dụng! File report là file báo cáo còn file còn lại là file nén rar chứa các file liên quan tới thiết kê Antenna và mô phỏng, phân tích suy hao kênh truyền
+Chào nhà tuyển dụng! File report là file báo cáo còn file còn lại là file nén rar chứa các file liên quan tới thiết kê Antenna và mô phỏng, phân tích suy hao kênh truyền. File antenna có đuôi aedt mở trong phần mềm HFSS, còn file mô phỏng còn lại thì mở trong phần mềm ADS Keysight.
